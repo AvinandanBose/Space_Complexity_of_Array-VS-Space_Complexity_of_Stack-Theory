@@ -1,7 +1,7 @@
 
 ---
 
-# 📌 Space Complexity of Array Vs Space Complexity of Stack (Theory)
+# 📌 𝑨𝒓𝒓𝒂𝒚 𝒗𝒔 𝑺𝒕𝒂𝒄𝒌: 𝑪𝒐𝒎𝒑𝒍𝒆𝒕𝒆 𝑻𝒉𝒆𝒐𝒓𝒆𝒕𝒊𝒄𝒂𝒍 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒐𝒇 𝑴𝒆𝒎𝒐𝒓𝒚 𝑼𝒔𝒂𝒈𝒆 𝒂𝒏𝒅 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚[𝑹𝒆-𝑫𝒊𝒔𝒄𝒖𝒔𝒔𝒆𝒅(𝑵𝒆𝒘)]-𝑽𝒆𝒓𝒚 𝒗𝒆𝒓𝒚 𝒊𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝒇𝒐𝒓 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕
 
 This repository contains comprehensive theory and visual explanations comparing the **space complexity** of traditional **Arrays** with that of a **Stack** data structure. It is designed as a learning resource for students, programmers, and interview enthusiasts who want to understand how space utilization differs between linear memory layouts (arrays) and dynamic data structures like stacks.
 
