@@ -156,6 +156,11 @@ Here’s a **clean & clickable Table of Contents** for your GitHub repository **
 18. 🔹 [10.Delete Element At A Given Position In An Array — Mechanism Explanation](https://github.com/AvinandanBose/Space_Complexity_of_Array-VS-Space_Complexity_of_Stack-Theory/blob/main/10.Delete%20Element%20At%20A%20Given%20Position%20In%20An%20Array-Mechanism%20Explanation.pdf) ([GitHub][1])
 
 ---
+### 📌 Main Things To Remember
+
+18. 🔹 [11.Main Things To Remember](https://github.com/AvinandanBose/Space_Complexity_of_Array-VS-Space_Complexity_of_Stack-Theory/blob/main/11.Main%20thing%20to%20remember%20.pdf) ([GitHub][1])
+
+
 
 
 [1]: https://github.com/AvinandanBose/Space_Complexity_of_Array-VS-Space_Complexity_of_Stack-Theory "GitHub - AvinandanBose/Space_Complexity_of_Array-VS-Space_Complexity_of_Stack-Theory: Space Complexity of Arrays Vs Space Complexity of Stack"
