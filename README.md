@@ -158,7 +158,7 @@ Here’s a **clean & clickable Table of Contents** for your GitHub repository **
 ---
 ### 📌 Main Things To Remember
 
-18. 🔹 [11.Main Things To Remember](https://github.com/AvinandanBose/Space_Complexity_of_Array-VS-Space_Complexity_of_Stack-Theory/blob/main/11.Main%20thing%20to%20remember%20.pdf) ([GitHub][1])
+19. 🔹 [11.Main Things To Remember](https://github.com/AvinandanBose/Space_Complexity_of_Array-VS-Space_Complexity_of_Stack-Theory/blob/main/11.Main%20thing%20to%20remember%20.pdf) ([GitHub][1])
 
 
 
